@@ -184,6 +184,7 @@ const demos = [
       { title: 'LinearGradient', route: '/demo/linear-gradient' },
       { title: 'Separator', route: '/demo/separator' },
       { title: 'Square + Circle', route: '/demo/shapes' },
+      { title: 'Skeleton', route: '/demo/skeleton' },
     ],
   },
 
