@@ -5792,6 +5792,7 @@ __metadata:
     "@tamagui/select": 1.76.0
     "@tamagui/sheet": 1.76.0
     "@tamagui/site-config": 1.76.0
+    "@tamagui/skeleton": 1.76.0
     "@tamagui/slider": 1.76.0
     "@tamagui/stacks": 1.76.0
     "@tamagui/toast": 1.76.0
@@ -6836,7 +6837,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@tamagui/skeleton@workspace:packages/skeleton":
+"@tamagui/skeleton@1.76.0, @tamagui/skeleton@workspace:packages/skeleton":
   version: 0.0.0-use.local
   resolution: "@tamagui/skeleton@workspace:packages/skeleton"
   dependencies:

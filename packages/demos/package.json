@@ -50,6 +50,7 @@
     "@tamagui/select": "1.76.0",
     "@tamagui/sheet": "1.76.0",
     "@tamagui/site-config": "1.76.0",
+    "@tamagui/skeleton": "1.76.0",
     "@tamagui/slider": "1.76.0",
     "@tamagui/stacks": "1.76.0",
     "@tamagui/toast": "1.76.0",
